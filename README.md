@@ -3,8 +3,8 @@
 
 First Go To Terminal
 
-```sh
-git clone https://github.com/BhaveshMaisuria/nodeDemo.git
+```
+git clone https://github.com/chan1di/nodeDialogflow.git
 ```
 
 Second Step :
